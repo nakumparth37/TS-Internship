@@ -1,0 +1,15 @@
+D:\TS internship\.net\BackEnd-1\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.deps.json
+D:\TS internship\.net\BackEnd-1\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.dll
+D:\TS internship\.net\BackEnd-1\BookStore.Repository\bin\Debug\net5.0\ref\BookStore.Repository.dll
+D:\TS internship\.net\BackEnd-1\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.pdb
+D:\TS internship\.net\BackEnd-1\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.AssemblyReference.cache
+D:\TS internship\.net\BackEnd-1\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\TS internship\.net\BackEnd-1\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.AssemblyInfoInputs.cache
+D:\TS internship\.net\BackEnd-1\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.AssemblyInfo.cs
+D:\TS internship\.net\BackEnd-1\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+D:\TS internship\.net\BackEnd-1\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.CopyComplete
+D:\TS internship\.net\BackEnd-1\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.dll
+D:\TS internship\.net\BackEnd-1\BookStore.Repository\obj\Debug\net5.0\ref\BookStore.Repository.dll
+D:\TS internship\.net\BackEnd-1\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.pdb
+D:\TS internship\.net\BackEnd-1\BookStore.Repository\bin\Debug\net5.0\BookStre.Models.dll
+D:\TS internship\.net\BackEnd-1\BookStore.Repository\bin\Debug\net5.0\BookStre.Models.pdb
